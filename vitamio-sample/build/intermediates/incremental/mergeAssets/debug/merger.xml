@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="4.2.0-SNAPSHOT"><source path="D:\Android_Project\player\VitamioBundle-5.0.1\vitamio-sample\build\intermediates\exploded-aar\io.vov.vitamio\vitamio\4.2.0-SNAPSHOT\assets"/></dataSet><dataSet config="main"><source path="D:\Android_Project\player\VitamioBundle-5.0.1\vitamio-sample\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\Android_Project\player\VitamioBundle-5.0.1\vitamio-sample\src\debug\assets"/></dataSet></merger>

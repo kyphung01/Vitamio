@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_Project\player\VitamioBundle-5.0.1\vitamio-sample\build\intermediates\exploded-aar\io.vov.vitamio\vitamio\4.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9430b875fbed66d0344a767481eb464d49198a9">
+        <dex dex="D:\Android_Project\player\VitamioBundle-5.0.1\vitamio-sample\build\intermediates\pre-dexed\debug\classes-5116a2d01f3aba1eca2c4b90495d54ed37708e0d.jar" />
+    </item>
+
+</items>
